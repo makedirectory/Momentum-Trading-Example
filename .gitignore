@@ -1,0 +1,10 @@
+# Mac OS
+.DS_Store*
+
+# ENV File
+.env
+
+# Local Environment
+pyvenv.cfg
+/bin*
+/lib*
