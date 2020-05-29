@@ -6,5 +6,4 @@
 
 # Local Environment
 pyvenv.cfg
-/bin*
 /lib*
